@@ -47,7 +47,5 @@ In the Time Series Analysis section, we analyze time-based data, perform trend a
 
 This assignment covers fundamental concepts and practices in Data Engineering, including data modeling, SQL querying, ETL processes, and time series analysis. It provides an opportunity to apply these concepts to real-world scenarios and gain hands-on experience in data engineering tasks.
 
-For any questions or clarifications, please reach out to [Your Name or Contact Information].
-
 Happy data engineering!
 
